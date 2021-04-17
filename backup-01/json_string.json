@@ -1,0 +1,28 @@
+{
+    "widget" : "Container",
+    "child" : {
+      "widget" : "Column",
+      "children" : [
+        {                       
+          "widget" : "Text",
+          "text" : "Hello"
+        },
+        {
+          "widget" : "Column",
+          "children" : [
+            {                       
+              "widget" : "Text",
+              "text" : "Hello"
+            },
+            {
+              "widget" : "Text",
+              "text" : "Hi"
+            }                             
+            ] 
+        }                  
+
+        ]
+    }
+}
+
+
